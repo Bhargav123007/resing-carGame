@@ -28,11 +28,11 @@ var ytAboutLayer = (function () {
 		txtTemplate.color = "white";
 
 		var txtList = [
-			"A: I wonder who the programmer of this game is?",
-			"Y: Me, I'm Bhargav Vankar.",
-			"A: And would you mind tell me some technical information about this game?",
-			"Y: Not at all. This game is based on javaScript game engine lufylegend.js.",
-			"A: Oh~ That's interesting."
+			"1: I wonder who the programmer of this game is?",
+			"2: Me, I'm Bhargav Vankar.",
+			"3: And would you mind tell me some technical information about this game?",
+			"4: Not at all. This game is based on javaScript game engine lufylegend.js.",
+			"5: Oh~ That's interesting."
 		];
 
 		for (var k = 0; k < txtList.length; k++) {
